@@ -1,0 +1,4 @@
+D:\GitHub\SPKTextLogSolution\SPK.TextLogLibs\bin\Release\SPK.TextLogLibs.dll
+D:\GitHub\SPKTextLogSolution\SPK.TextLogLibs\bin\Release\SPK.TextLogLibs.pdb
+D:\GitHub\SPKTextLogSolution\SPK.TextLogLibs\obj\Release\SPK.TextLogLibs.dll
+D:\GitHub\SPKTextLogSolution\SPK.TextLogLibs\obj\Release\SPK.TextLogLibs.pdb
